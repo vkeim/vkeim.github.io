@@ -29,7 +29,7 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
 
 </div>
 
-<div class="gs-section-02" markdown="1">
+<div class="gs-section-02" markdown="2">
 
 ### 2. Rename the project to `<yourusername>.github.io`
 
@@ -37,7 +37,7 @@ Click on __*Settings*__ at the top (the cog icon) and on that page you'll have a
 
 </div>
 
-<div class="gs-section-03" markdown="1">
+<div class="gs-section-03" markdown="3">
 
 ### 3. Customize your website settings
 
